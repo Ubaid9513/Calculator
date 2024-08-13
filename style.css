@@ -40,12 +40,12 @@ h1 {
   box-shadow: inset 5px 5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
 }
 .equalBtn {
-    width: 84px;
-    height: 35px;
-    border-radius: 50px;
-    margin: 5px;
-    font-weight: bold;
-    border: none;
-    background-color: #ecf0f3;
-    box-shadow: inset 5px 5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
+  width: 84px;
+  height: 35px;
+  border-radius: 50px;
+  margin: 5px;
+  font-weight: bold;
+  border: none;
+  background-color: #ecf0f3;
+  box-shadow: inset 5px 5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
 }
